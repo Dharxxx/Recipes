@@ -1,3 +1,3 @@
 # Recipes
-recipes website
-First project using github repo
+# recipes website
+# First project using github repo
